@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344454308732",
+    "project_id": "visionx-cfeba",
+    "storage_bucket": "visionx-cfeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344454308732:android:6036d56eee9c8915eb7af9",
+        "android_client_info": {
+          "package_name": "com.example.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344454308732-ecflk3tp3fqblv91f0csen9uqkohgq2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalyearproject",
+            "certificate_hash": "aed8814e6623cdcee3f6a180234ac9a11cd1eb6a"
+          }
+        },
+        {
+          "client_id": "344454308732-ksoocmbkn0snj7j9h77hofh47kgvhvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-kwJLVwAN3_II5yQLyapNE7hYXV_3TiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344454308732-ksoocmbkn0snj7j9h77hofh47kgvhvo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
